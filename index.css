@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 375px;
+    
+}
+
+.id-pic {
+    width:34px;
+    height:34px;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 127px;
+    height: 33px;
+}
+
+.cont {
+    padding:16px 15px 15px 0px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: 1px solid #C6C6C6;
+    
+    
+}
+
+.lol1 {
+    width:128px;
+  
+}
+.top{
+    padding:10px;
+    width:348px;
+    height:34px;
+    margin:10px;
+    display:flex;
+    
+    
+}
+.post-vangoth{
+    width:34px;
+    height:34px;
+    border-radius:50%;
+}
+.heading{
+    font-weight:bold;
+    margin:0;
+    
+}
+p{
+    margin:0;
+}
+.names{
+    margin-left:7px;
+}
+.main-image{
+    margin-top:15px;
+    width:375px;
+    height:375px;
+    border:none;
+}
+.icon{
+    width:35px;
+    margin-left:12px;
+}
+.icons{
+    display:flex;
+    padding:10px 0;
+}
+.bh{
+    margin-top:0;
+    margin-left:15px;
+    font-weight:bold;
+}
+.caption{
+    margin-left:10px;
+    margin-top:5px;
+    margin-bottom:20px;
+}
